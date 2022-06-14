@@ -1,5 +1,7 @@
-### Hi there 👋
 
+# Hello, I'am Brahim Mahioussi
+
+## Fullstack developer who loves everything related to technology
 <!--
 **BRAHAIM360/brahaim360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,13 +18,10 @@ Here are some ideas to get you started:
 -->
 
 
-# Hello, I'am Amine Hamdi
 
-## Fullstack developer who loves everything related to technology
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminevolk&theme=dracula)](https://github.com/brahaim360/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminevolk&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminevolk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminevolk&layout=compact)](https://github.com/brahaim360/github-readme-stats)
 
 
 # Technologies I used:
