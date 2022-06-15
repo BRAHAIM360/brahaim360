@@ -1,5 +1,6 @@
-
-### HI there 👋
+### Hi there 👋, Brahim Mahioussi 
+#### Hello, my name is Brahim Mahioussi, and I'm a software developer and Javascript lover ,currently based in Oran,Algeria. I've worked hard in the IT field for the past 5 years, as a freelancer before geting my full time job, generating landing pages, websites, and mobile apps along the way.
+![Hello, my name is Brahim Mahioussi, and I'm a software developer and Javascript lover ,currently based in Oran,Algeria. I've worked hard in the IT field for the past 5 years, as a freelancer before geting my full time job, generating landing pages, websites, and mobile apps along the way.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Hello, my name is Brahim Mahioussi, and I'm a software developer and Javascript lover ,currently based in Oran,Algeria. I've worked hard in the IT field for the past 5 years, as a freelancer before geting my full time job, generating landing pages, websites, and mobile apps along the way.
 
@@ -14,7 +15,9 @@ I'm usually focused on :
 
 ✨ Developing backend and structuring databases.
 
-⏱️ Efficiency 🎯 Consistency
+⏱️ Efficiency 
+
+🎯 Consistency
 
 ♻️ Reusability
 
@@ -26,20 +29,25 @@ I'm usually focused on :
 
 💠 Modular Design
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brahaim360)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**BRAHAIM360/brahaim360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: React.js / React Native/ Node/ Nest.js/ SQL/ Docker/ JS / TS/ HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on As FullStack Developer 
+- 📫 How to reach me: contact@mahioussi.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/BRAHAIM360/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/brahaim360)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/brahim-mahioussi-4b2920111//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/brahim.madrido/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/brahim.360//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Aek360)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/7595543/brahim-mahioussi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UChzCBkBgOQbyVwNvdvkhUEg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio.mahioussi.com/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/BRAHAIM360/)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/BRAHAIM360/&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/BRAHAIM360/)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/BRAHAIM360/)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/BRAHAIM360/)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/BRAHAIM360/)  
