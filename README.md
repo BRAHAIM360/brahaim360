@@ -9,14 +9,23 @@ As a programmer, I like to think of myself as a Tech Agnostic Polyglot Programme
 
 I'm usually focused on :
 🎛️ Designing great User interfaces experience
+
 🌐 Developing full-stack websites that scales
+
 ✨ Developing backend and structuring databases.
+
 ⏱️ Efficiency 🎯 Consistency
+
 ♻️ Reusability
+
 ⚙️ Systems
+
 📋 Standards
+
 🤖Automation
+
 💠 Modular Design
+
 <!--
 **BRAHAIM360/brahaim360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
