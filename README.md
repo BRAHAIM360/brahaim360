@@ -1,6 +1,6 @@
 ### Hi there 👋, Brahim Mahioussi 
 #### FullStack Developer
-![FullStack Developer](/code.png)
+![FullStack Developer](/Code.png)
 
 Hello, my name is Brahim Mahioussi, and I'm a software developer and Javascript lover ,currently based in Oran,Algeria. I've worked hard in the IT field for the past 5 years, as a freelancer before geting my full time job, generating landing pages, websites, and mobile apps along the way.
 
