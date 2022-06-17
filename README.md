@@ -50,3 +50,4 @@ Skills: React.js / React Native/ Node/ Nest.js/ SQL/ Docker/ JS / TS/ HTML / CSS
 
 ![GitHub streak stats](3636)  
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ZibanPirate.ZibanPirate)
