@@ -48,10 +48,5 @@ Skills: React.js / React Native/ Node/ Nest.js/ SQL/ Docker/ JS / TS/ HTML / CSS
 
 ![GitHub metrics](https://metrics.lecoq.io/BRAHAIM360)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BRAHAIM360)  
+![GitHub streak stats](3636)  
 
-![Profile views](https://gpvc.arturio.dev/BRAHAIM360)  
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=BRAHAIM360.BRAHAIM360)
