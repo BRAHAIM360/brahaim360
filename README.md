@@ -48,6 +48,4 @@ Skills: React.js / React Native/ Node/ Nest.js/ SQL/ Docker/ JS / TS/ HTML / CSS
 
 ![GitHub metrics](https://metrics.lecoq.io/BRAHAIM360)  
 
-![GitHub streak stats](3636)  
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ZibanPirate.ZibanPirate)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brahaim360&theme=dark)](https://git.io/streak-stats)
