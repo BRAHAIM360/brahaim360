@@ -1,8 +1,10 @@
 ### Hi there 👋, Brahim Mahioussi 
-#### FullStack Developer
-![FullStack Developer](/Code.png)
+#### Software Engineer
+![Software Engineer](/Code.png)
 
-Hello, my name is Brahim Mahioussi, and I'm a software developer and Javascript lover ,currently based in Oran,Algeria. I've worked hard in the IT field for the past 4 years, as a freelancer before geting my full time job, generating landing pages, websites, and mobile apps along the way.
+Hello, my name is Brahim Mahioussi, and I'm a software developer ,currently based in Dublin,Ireland , working on backend using Java.
+
+I've worked hard in the IT field for the past 5 years, as a freelancer before geting my full time job, generating landing pages, websites, and mobile apps along the way.
 
 My abundant energy allows me to pursue a variety of interests, hobbies, and artistic endeavors. I am a quick learner who adjusts to change quickly and is willing to acquire new methods and procedures, whether they are cultural or work-related.
 
@@ -30,9 +32,9 @@ I'm usually focused on :
 💠 Modular Design
 
 
-Skills: React.js / React Native/ Node/ Nest.js/ SQL/ Docker/ JS / TS/ HTML / CSS
+Skills: Java / React.js / React Native/ Node/ Nest.js/ SQL/ Docker/ JS / TS/ HTML / CSS
 
-- 🔭 I’m currently working on As FullStack Developer 
+- 🔭 I’m currently working on the backend for a Fintech Company.  
 - 📫 How to reach me: contact@mahioussi.com 
 
 
