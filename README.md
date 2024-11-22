@@ -2,7 +2,7 @@
 #### Software Engineer
 ![Software Engineer](/Code.png)
 
-Hello, my name is Brahim Mahioussi, and I'm a software developer ,currently based in Dublin,Ireland , working on backend using Java.
+Hello, my name is Brahim Mahioussi, and I'm a software developer ,currently based in New York city, working on backend using Java with spring boot.
 
 I've worked hard in the IT field for the past 5 years, as a freelancer before geting my full time job, generating landing pages, websites, and mobile apps along the way.
 
