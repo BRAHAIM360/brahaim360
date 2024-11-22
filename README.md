@@ -4,7 +4,7 @@
 
 Hello, my name is Brahim Mahioussi, and I'm a software developer ,currently based in New York city, working on backend using Java with spring boot.
 
-I've worked hard in the IT field for the past 5 years, as a freelancer before geting my full time job, generating landing pages, websites, and mobile apps along the way.
+I've worked hard in the IT field for the past 7 years, as a freelancer before geting my full time job, generating landing pages, websites, and mobile apps along the way.
 
 My abundant energy allows me to pursue a variety of interests, hobbies, and artistic endeavors. I am a quick learner who adjusts to change quickly and is willing to acquire new methods and procedures, whether they are cultural or work-related.
 
